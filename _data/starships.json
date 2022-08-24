@@ -1,0 +1,407 @@
+[
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "60",
+            "starshipClass": "corvette",
+            "hyperdriveRating": "2.0"
+        },
+        "model": "resources.starship",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "60",
+            "starshipClass": "Star Destroyer",
+            "hyperdriveRating": "2.0"
+        },
+        "model": "resources.starship",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "70",
+            "starshipClass": "landing craft",
+            "hyperdriveRating": "1.0"
+        },
+        "model": "resources.starship",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "10",
+            "starshipClass": "Deep Space Mobile Battlestation",
+            "hyperdriveRating": "4.0"
+        },
+        "model": "resources.starship",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "pilots": [
+                13,
+                14,
+                25,
+                31
+            ],
+            "mglt": "75",
+            "starshipClass": "Light freighter",
+            "hyperdriveRating": "0.5"
+        },
+        "model": "resources.starship",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "80",
+            "starshipClass": "assault starfighter",
+            "hyperdriveRating": "1.0"
+        },
+        "model": "resources.starship",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "pilots": [
+                1,
+                9,
+                18,
+                19
+            ],
+            "mglt": "100",
+            "starshipClass": "Starfighter",
+            "hyperdriveRating": "1.0"
+        },
+        "model": "resources.starship",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "pilots": [
+                4
+            ],
+            "mglt": "105",
+            "starshipClass": "Starfighter",
+            "hyperdriveRating": "1.0"
+        },
+        "model": "resources.starship",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "40",
+            "starshipClass": "Star dreadnought",
+            "hyperdriveRating": "2.0"
+        },
+        "model": "resources.starship",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "20",
+            "starshipClass": "Medium transport",
+            "hyperdriveRating": "4.0"
+        },
+        "model": "resources.starship",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "pilots": [
+                22
+            ],
+            "mglt": "70",
+            "starshipClass": "Patrol craft",
+            "hyperdriveRating": "3.0"
+        },
+        "model": "resources.starship",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "pilots": [
+                1,
+                13,
+                14
+            ],
+            "mglt": "50",
+            "starshipClass": "Armed government transport",
+            "hyperdriveRating": "1.0"
+        },
+        "model": "resources.starship",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "40",
+            "starshipClass": "Escort ship",
+            "hyperdriveRating": "2.0"
+        },
+        "model": "resources.starship",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "60",
+            "starshipClass": "Star Cruiser",
+            "hyperdriveRating": "1.0"
+        },
+        "model": "resources.starship",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "pilots": [
+                29
+            ],
+            "mglt": "120",
+            "starshipClass": "Starfighter",
+            "hyperdriveRating": "1.0"
+        },
+        "model": "resources.starship",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "91",
+            "starshipClass": "Assault Starfighter",
+            "hyperdriveRating": "2.0"
+        },
+        "model": "resources.starship",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "unknown",
+            "starshipClass": "Space cruiser",
+            "hyperdriveRating": "2.0"
+        },
+        "model": "resources.starship",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "unknown",
+            "starshipClass": "Droid control ship",
+            "hyperdriveRating": "2.0"
+        },
+        "model": "resources.starship",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "pilots": [
+                11,
+                35,
+                60
+            ],
+            "mglt": "unknown",
+            "starshipClass": "Starfighter",
+            "hyperdriveRating": "1.0"
+        },
+        "model": "resources.starship",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "pilots": [
+                39
+            ],
+            "mglt": "unknown",
+            "starshipClass": "yacht",
+            "hyperdriveRating": "1.8"
+        },
+        "model": "resources.starship",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "pilots": [
+                44
+            ],
+            "mglt": "unknown",
+            "starshipClass": "Space Transport",
+            "hyperdriveRating": "1.5"
+        },
+        "model": "resources.starship",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "unknown",
+            "starshipClass": "Diplomatic barge",
+            "hyperdriveRating": "0.7"
+        },
+        "model": "resources.starship",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "unknown",
+            "starshipClass": "freighter",
+            "hyperdriveRating": "unknown"
+        },
+        "model": "resources.starship",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "pilots": [
+                10,
+                58
+            ],
+            "mglt": "unknown",
+            "starshipClass": "Starfighter",
+            "hyperdriveRating": "1.0"
+        },
+        "model": "resources.starship",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "pilots": [
+                35
+            ],
+            "mglt": "unknown",
+            "starshipClass": "yacht",
+            "hyperdriveRating": "0.9"
+        },
+        "model": "resources.starship",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "unknown",
+            "starshipClass": "assault ship",
+            "hyperdriveRating": "0.6"
+        },
+        "model": "resources.starship",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "unknown",
+            "starshipClass": "yacht",
+            "hyperdriveRating": "1.5"
+        },
+        "model": "resources.starship",
+        "pk": 58
+    },
+    {
+        "fields": {
+            "pilots": [
+                10,
+                11
+            ],
+            "mglt": "unknown",
+            "starshipClass": "capital ship",
+            "hyperdriveRating": "1.5"
+        },
+        "model": "resources.starship",
+        "pk": 59
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "unknown",
+            "starshipClass": "transport",
+            "hyperdriveRating": "1.0"
+        },
+        "model": "resources.starship",
+        "pk": 61
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "unknown",
+            "starshipClass": "star destroyer",
+            "hyperdriveRating": "1.0"
+        },
+        "model": "resources.starship",
+        "pk": 63
+    },
+    {
+        "fields": {
+            "pilots": [
+                10,
+                35
+            ],
+            "mglt": "unknown",
+            "starshipClass": "yacht",
+            "hyperdriveRating": "0.5"
+        },
+        "model": "resources.starship",
+        "pk": 64
+    },
+    {
+        "fields": {
+            "pilots": [
+                10,
+                11
+            ],
+            "mglt": "unknown",
+            "starshipClass": "starfighter",
+            "hyperdriveRating": "1.0"
+        },
+        "model": "resources.starship",
+        "pk": 65
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "100",
+            "starshipClass": "starfighter",
+            "hyperdriveRating": "1.0"
+        },
+        "model": "resources.starship",
+        "pk": 66
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "unknown",
+            "starshipClass": "cruiser",
+            "hyperdriveRating": "1.0"
+        },
+        "model": "resources.starship",
+        "pk": 68
+    },
+    {
+        "fields": {
+            "pilots": [
+                10,
+                79
+            ],
+            "mglt": "unknown",
+            "starshipClass": "starfighter",
+            "hyperdriveRating": "6"
+        },
+        "model": "resources.starship",
+        "pk": 74
+    },
+    {
+        "fields": {
+            "pilots": [],
+            "mglt": "unknown",
+            "starshipClass": "starfighter",
+            "hyperdriveRating": "1.0"
+        },
+        "model": "resources.starship",
+        "pk": 75
+    }
+]
